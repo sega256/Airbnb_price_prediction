@@ -1,11 +1,9 @@
-Project Proposal
-
 
 Title:
 The goal of this project is to analyze the Airbnb listings of London and help future users estimate what the correct price of their rental should be given the set of features. The tool will also give simple suggestions to the user to help them get the max rental price while not losing out on the occupancy
 
 Dataset:
-Data has been scraped from Airbnb by http://insideairbnb.com/get-the-data.html
+Data has been scraped from Airbnb by http://insideairbnb.com/get-the-data.html (Download file from here)
 It contains 77000+ records and has 97 columns.
 
 Project Idea:
